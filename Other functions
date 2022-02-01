@@ -1,0 +1,3 @@
+#print(soup.find_all('div'))
+#print(soup.title)
+#print(soup.find('a'))
